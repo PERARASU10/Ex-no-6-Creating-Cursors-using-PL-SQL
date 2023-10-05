@@ -50,6 +50,7 @@ END;
 /
 ```
 ### Output:
-![image](https://github.com/Brindha77/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/118889143/ac2f440b-2f4c-420e-9e85-95df1232cf59)
+![image](https://github.com/PERARASU10/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/118348589/b8ed7cae-72bc-462f-882c-a5cdfb79e254)
+
 ### Result:
 Thus this program executed successfully.
